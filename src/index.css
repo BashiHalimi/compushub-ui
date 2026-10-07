@@ -23,3 +23,20 @@ a.nav-link.active {
   font-weight: 600;
   color: #fff !important;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background: #163c64;
+  color: white;
+}
